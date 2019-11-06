@@ -1,5 +1,4 @@
 --  Write a program in haskell that finds an integer number either odd or even. 
--- DONE
 
 import Prelude hiding (even, odd) 
 

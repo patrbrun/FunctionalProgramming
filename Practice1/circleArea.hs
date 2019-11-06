@@ -1,5 +1,4 @@
 -- Write a program in haskell that calculates the periphery (circumference) and area of a circle with the given radius.
--- DONE
 
 data Circle_Shape = Circle Float
 calc :: Circle_Shape -> Float   
