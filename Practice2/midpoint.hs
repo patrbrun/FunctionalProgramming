@@ -1,0 +1,1 @@
+-- If the end points of a line segment is (x1, y1) and (x2, y2) then write a program to find the midpoint of the line segment using tuples.

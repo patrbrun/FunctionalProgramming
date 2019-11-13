@@ -1,0 +1,2 @@
+-- Write a program with guards in haskell that can provide a grade with the following scale: 
+--   80-90 – A+, 70-79 – A, 60-69 – B, 50 – 59 – C and less than 50 is fail.
