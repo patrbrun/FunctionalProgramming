@@ -1,0 +1,2 @@
+-- We have two triangles, where the bases of the traingles are 5cm and 3cm, heights of the triangles are 3cm and 7cm respectivelly.
+-- Find the area of the two triangles using lambdas.

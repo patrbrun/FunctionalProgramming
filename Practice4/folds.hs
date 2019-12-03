@@ -1,0 +1,1 @@
+-- Use folds to create a list of squares of some numbers

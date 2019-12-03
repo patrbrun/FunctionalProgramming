@@ -1,0 +1,1 @@
+-- Write a program to solve xˆ2 + 2x - 5 for any x using functor.
