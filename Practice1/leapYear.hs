@@ -9,7 +9,7 @@ leapYear year
   | mod year 100 == 0 = False
   -- Check if year is multiple of 4
   | mod year 4 == 0 = True
-  | otherwise = False
+    otherwise = False
   
 main = do 
-     print (leapYear 2019)
+  print (leapYear 2019)
