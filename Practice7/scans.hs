@@ -1,0 +1,1 @@
+-- Write a program using Scans where input is an umber and the output is the multiplication of that number with 5.
